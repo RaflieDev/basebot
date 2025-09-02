@@ -1,0 +1,132 @@
+{
+  "users": {
+    "120363257033988496@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "62895410790927@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6283147171514@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "62882008397736@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6283811470532@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6285194916208@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6283844381852@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6283171882718@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "120363415603332542@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "120363386788052288@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6289527471742@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6289517547162@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "120363366790950043@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "62882008771871@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6285791368765@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6283197769004@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "120363315153310448@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "120363404857764766@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "120363325294099425@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "120363373745350405@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6285709806467@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "6288226579576@s.whatsapp.net": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "120363401010541846@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "120363397996052370@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    },
+    "120363370508049655@newsletter": {
+      "status_deposit": false,
+      "saldo": 0
+    }
+  },
+  "groups": {
+    "120363385532008633@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "welcome": false,
+      "mute": false,
+      "simi": false,
+      "blacklistjpm": false
+    },
+    "120363367978080892@g.us": {
+      "antilink": false,
+      "antilink2": false,
+      "welcome": false,
+      "mute": false,
+      "simi": false,
+      "blacklistjpm": false
+    }
+  },
+  "database": {},
+  "settings": {
+    "anticall": false,
+    "autobio": false,
+    "autoread": false,
+    "autopromosi": false,
+    "autotyping": false,
+    "readsw": false,
+    "owneroffmode": false
+  }
+}
